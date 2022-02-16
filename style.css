@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(226, 181, 126);
+}
+
+h1 {
+    text-align: center;
+}
+.gif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+a {
+    color: red;
+}
+.gif img:hover {
+    transform: rotate(10deg)
+}
